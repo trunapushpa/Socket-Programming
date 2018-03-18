@@ -19,21 +19,21 @@ The following are the steps to run the code (applicable for both Q1 and Q2)
 ## Comparision between Persistent and Non Persistent connections
 
 The following test case on both persistent and non persistent codes
-`
+```
 download t1 t2 t3 t4
 e
-`
+```
 
 Time taken by persistent connection
-`
+```
 real    0m0.167s
 user    0m0.004s
 sys     0m0.000s
-`
+```
 
 Time taken by non-persistent connection
-`
+```
 real    0m0.044s
 user    0m0.004s
 sys     0m0.004s
-`
+```
