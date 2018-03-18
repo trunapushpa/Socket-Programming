@@ -1,4 +1,4 @@
-# Computer Networks Assignment 1 Socket Programming
+# Computer Networks : Socket Programming
 
 ## Structure
 
